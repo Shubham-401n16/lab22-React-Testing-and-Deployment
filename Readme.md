@@ -5,7 +5,10 @@
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [Code Sandbox](https://codesandbox.io/s/component-based-ui-vpxpm)
+* [Code Sandbox]()
+* [Netlify](https://tender-swirles-0289f8.netlify.app)
+* [aws](http://lab22.s3-website-us-west-1.amazonaws.com)
+* [awsAmplify](https://master.d1o6p6dhb8y4zx.amplifyapp.com/)
 * [Github Actions]
 
 #### Documentation
